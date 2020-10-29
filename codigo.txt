@@ -3,3 +3,5 @@ Sistema Cibertec
 Grecia Saravia Salazar
 
 Sistema del colegio 122
+
+Este sistema permite la matricula de los alumnos
